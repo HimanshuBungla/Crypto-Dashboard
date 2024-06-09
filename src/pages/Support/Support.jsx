@@ -4,7 +4,8 @@ import SupportCard from './component/SupportCard'
 import ContactCard from './component/ContactCard'
 import { IoMdMail } from 'react-icons/io'
 import { AiTwotoneMessage } from 'react-icons/ai'
-import InfoCard from '../../../../../React-10-Projects-master/React-10-Projects-master/project-6/src/pages/Dashboard/components/InfoCard'
+// import InfoCard from '../../../../../React-10-Projects-master/React-10-Projects-master/project-6/src/pages/Dashboard/components/InfoCard'
+import InfoCard from 'E:\REACT\p6\project6\src\pages\Dashboard\Components\InfoCard.jsx'
 import { Stack } from '@chakra-ui/react'
 
 const Support = () => {
